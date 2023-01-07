@@ -1,6 +1,7 @@
 <?php
 
-// Proses upload ke repository Github
+// Jika ingin upgrade versi library di github, kita cukup push kode terbaru,
+// lalu buat release tag yang terbaru juga.
 
 namespace MMaulanaYusuf\BelajarComposer;
 
